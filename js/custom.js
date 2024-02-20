@@ -35,7 +35,7 @@
                 items:2,
             },
             1200:{
-                items:3,
+                items:2,
                 loop:false
             }
         }
